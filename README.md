@@ -1,4 +1,6 @@
-# MyFirstApp
+# Recipe Project with angular  
+Have a look 
+(https://www.youtube.com/embed/zum0SaK5CUA)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.3.
 
